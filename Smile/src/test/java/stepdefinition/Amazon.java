@@ -33,5 +33,9 @@ public class Amazon extends LaunchBrowser {
         Assert.assertEquals(expectedTitle, actualTitle);
 
     }
+
+    public void testMethod(){
+        System.out.println("Git test Passed");
+    }
 }
 
