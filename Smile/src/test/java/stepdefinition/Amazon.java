@@ -34,8 +34,5 @@ public class Amazon extends LaunchBrowser {
 
     }
 
-    public void testMethod(){
-        System.out.println("Git test Passed");
-    }
 }
 
