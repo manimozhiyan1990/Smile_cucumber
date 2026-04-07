@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf130a1c-a27e-446d-aee1-fd011b2a555e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/reusablecode/LaunchBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reusablecode/LaunchBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinition/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/Amazon.java" afterDir="false" />
-    </list>
+    <list default="true" id="bf130a1c-a27e-446d-aee1-fd011b2a555e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
