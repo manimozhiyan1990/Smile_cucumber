@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="41.236" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Test amazon test Functionality" name="Validate homepage Title" time="40.325">
+<system-out><![CDATA[
+When user enter search Product name "Table" in search box...................passed
+And user click the search box button........................................passed
+Then user validate title of home page.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
