@@ -39,7 +39,6 @@ public static WebDriver driver;
 
         }
         driver.get(prob.getProperty("url"));
-        System.out.println("manimozhiyan");
 
     }
 }
